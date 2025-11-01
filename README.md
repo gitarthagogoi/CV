@@ -1,10 +1,50 @@
-# CV
-MTech student specializing in Digital Electronics &amp; Communication | IoT Systems Designer | Wireless Comms &amp; Active IRS Researcher | LaTeX Enthusiast
+# Hi, I'm Gitartha Gogoi 👋  
+**M.Tech in Digital Electronics and Communication | Researcher | Embedded Systems & Wireless Communication Enthusiast**
 
-I’m currently pursuing my MTech in Digital Electronics and Communication from Sikkim Manipal Institute of Technology. My work revolves around designing and optimizing IoT-based systems using microcontrollers like ESP32, NodeMCU, and Raspberry Pi CM4, with a strong focus on real-time data acquisition, cloud integration, and energy-efficient communication.
+---
 
-My academic research includes performance modeling of Active Intelligent Reflecting Surfaces (IRS) in multi-user wireless systems. I explore phase optimization, spectral and energy efficiency, and hardware-aware power modeling using MATLAB.
+### 🎓 About Me
+I’m currently pursuing my **M.Tech in Digital Electronics and Communication** at **Sikkim Manipal Institute of Technology (SMIT)**, specializing in **Digital Communication and Signal Processing**.  
+My work focuses on **Intelligent Reflecting Surfaces (IRS)**, **IoT-based system design**, and **energy-efficient wireless communication**.
 
-I'm also passionate about creating clean and well-structured documents in LaTeX and enjoy integrating electronics with healthcare-oriented applications—like wearable devices for ECG, heart sound, and pulse monitoring.
+I’m passionate about combining **hardware intelligence** and **algorithmic optimization** to create efficient, reliable, and scalable communication systems.
 
-Beyond academics, I'm enthusiastic about entrepreneurship, helping others build online platforms, and exploring new tech in embedded systems and wireless networks.
+---
+
+### 🚀 Research & Projects
+- **Active IRS-Aided Wireless Communication System:**  
+  Designed and simulated energy-efficient beamforming frameworks in MATLAB, integrating hardware power consumption and optimizing energy efficiency.
+  
+- **Hybrid IRS System (Active + Passive):**  
+  Modeled and implemented hybrid IRS designs to enhance spectral efficiency and sum-rate in MISO networks.
+
+- **IoT-Based Smart Health Monitoring Jacket:**  
+  Developed a real-time biomedical monitoring system capable of ECG, heart sound, and blood pressure measurement, with IoT-based cloud connectivity.
+
+- **Spectral Efficiency and Power Analysis:**  
+  Simulated and analyzed energy efficiency vs total transmit power in active IRS systems using MATLAB.
+
+---
+
+### 🧠 Technical Skills
+- **Programming:** MATLAB, Python, C, LaTeX  
+- **Wireless Systems:** MIMO, IRS, Beamforming, CSI Estimation  
+- **Embedded Systems:** ESP32, NodeMCU, Raspberry Pi CM4, LoRa, GSM  
+- **Tools & Frameworks:** Simulink, GitHub, Arduino IDE  
+- **Other Interests:** AI/ML for signal processing, Cybersecurity fundamentals
+
+---
+
+### 💼 Career Interests
+I aspire to work in **core communication engineering**, **wireless R&D**, or **embedded system design**, applying advanced algorithms and real-time hardware integration to solve modern engineering challenges.
+
+---
+
+### 📫 Let's Connect!
+- 📧 **Email:** [your_email@example.com]  
+- 💼 **LinkedIn:** [your_linkedin_profile]  
+- 🌐 **GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
+
+---
+
+⭐ *“Building intelligent, energy-efficient, and connected systems for the future.”*
