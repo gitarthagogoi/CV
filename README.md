@@ -1,10 +1,10 @@
 # Hi, I'm Gitartha Gogoi 👋  
-**M.Tech in Digital Electronics and Communication | Researcher | Embedded Systems & Wireless Communication Enthusiast**
+**M.Tech in Digital Communication and Signal Processes | Researcher | Embedded Systems | Wireless Communication | AI/ML & Cybersecurity Enthusiast**
 
 ---
 
 ### 🎓 About Me
-I’m currently pursuing my **M.Tech in Digital Electronics and Communication** at **Sikkim Manipal Institute of Technology (SMIT)**, specializing in **Digital Communication and Signal Processing**.  
+I’m currently pursuing my **M.Tech in Digital Communication and Signal Processes** at **Sikkim Manipal Institute of Technology (SMIT)**, specializing in **Digital Communication and Signal Processing**.  
 My work focuses on **Intelligent Reflecting Surfaces (IRS)**, **IoT-based system design**, and **energy-efficient wireless communication**.
 
 I’m passionate about combining **hardware intelligence** and **algorithmic optimization** to create efficient, reliable, and scalable communication systems.
@@ -27,10 +27,10 @@ I’m passionate about combining **hardware intelligence** and **algorithmic opt
 ---
 
 ### 🧠 Technical Skills
-- **Programming:** MATLAB, Python, C, LaTeX  
+- **Programming:** MATLAB, Python, C, C++, Verilog, VHDL, LaTeX  
 - **Wireless Systems:** MIMO, IRS, Beamforming, CSI Estimation  
 - **Embedded Systems:** ESP32, NodeMCU, Raspberry Pi CM4, LoRa, GSM  
-- **Tools & Frameworks:** Simulink, GitHub, Arduino IDE  
+- **Tools & Frameworks:** Simulink, GitHub, Arduino IDE, PlatformIO.
 - **Other Interests:** AI/ML for signal processing, Cybersecurity fundamentals
 
 ---
@@ -41,9 +41,9 @@ I aspire to work in **core communication engineering**, **wireless R&D**, or **e
 ---
 
 ### 📫 Let's Connect!
-- 📧 **Email:** [your_email@example.com]  
-- 💼 **LinkedIn:** [your_linkedin_profile]  
-- 🌐 **GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
+- 📧 **Email:** gitarthaqwerty@gmail.com 
+- 💼 **LinkedIn:** https://www.linkedin.com/in/gitartha-gogoi-05590518b/ 
+- 🌐 **GitHub:** https://github.com/gitarthagogoi
 
 ---
 
